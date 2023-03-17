@@ -9,10 +9,16 @@
       <title>Contacts</title>
       <link rel="stylesheet" href="./assets/style/index.css" media="all">
       <script src="./assets/script/index.js" defer></script>
-    </head>
+   </head>
     <body>
-      <h2>Contacts</h2>
+      <h2>My Contacts</h2>
       <div class="container">
+        <form id="add-contact-form">
+          <input type="text" id="contact-info" name="contact-info" placeholder="Contact info (name, city, email)" required>
+        </form>
+        <button type="submit">Add</button>
       </div>
+      <div class="contact-list"></div>
+      <div id="count">Number of contacts: 0</div>
     </body>
 </html>
