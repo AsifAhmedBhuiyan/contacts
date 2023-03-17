@@ -9,7 +9,7 @@ I developed a web application that allows users to create and delete contacts.
 ### Demo
 
 
-Click [here](https://asifahmedbhuiyan.github./) to test the application
+Click [here](https://asifahmedbhuiyan.github.io/contacts/) to test the application
 
 
 <br/>
